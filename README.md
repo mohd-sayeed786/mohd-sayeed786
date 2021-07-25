@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Mohammad Sayeed
 - 👀 I'm an entry level data scientist who has experience of analyzing data of various domains and building predictive models on top of it.
+- Please check out my Machine Learning Models repository to see my works.... Thanks...
 - Craving for more exposure in the Machine Learning world.
